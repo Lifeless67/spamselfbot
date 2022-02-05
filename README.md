@@ -20,6 +20,8 @@
 7. Go to run at the top and click "run without debugging"
 8. You should be good to go!
 
+*Note*
+Visual Studios must be running while using the selfbot. The selfbot will turn off once you close visual studios!!
 #  Agreement
 	Please agree to these statements below!
 By using this selfbot I understand that this is bannable just like any other self bot. Lifeless is not liable for any server banned or discord disabled accounts.
