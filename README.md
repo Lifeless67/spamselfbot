@@ -15,7 +15,7 @@
 5. [Add the python extention](https://www.youtube.com/watch?v=vBrrOa_SJog) to Visual Studios
 6. Import your token to where it says "Token"
 
-*Heres how you [get your token](https://www.youtube.com/watch?v=YEgFvgg7ZPI).
+*Heres how you [get your token](https://www.youtube.com/watch?v=YEgFvgg7ZPI).*
 
 7. Go to run at the top and click "run without debugging"
 8. You should be good to go!
