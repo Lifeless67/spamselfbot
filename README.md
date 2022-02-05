@@ -11,7 +11,7 @@
 
 *download it [here](https://code.visualstudio.com/download) if needed*
 
-4. Open the .py file
+4. Open the .py file in Visual Studios Code
 5. [Add the python extention](https://www.youtube.com/watch?v=vBrrOa_SJog) to Visual Studios
 6. Import your token to where it says "Token"
 
