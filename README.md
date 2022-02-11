@@ -17,8 +17,10 @@
 
 *Heres how you [get your token](https://www.youtube.com/watch?v=YEgFvgg7ZPI).*
 
-7. Go to run at the top and click "run without debugging"
-8. You should be good to go!
+7. Import your prefered prefix "Prefix = (Add your prefix here)
+
+8. Go to run at the top and click "run without debugging"
+9. You should be good to go!
 
 *Note:*
 *Visual Studios must be running while using the selfbot. The selfbot will turn off once you close visual studios!!*
